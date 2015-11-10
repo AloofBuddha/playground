@@ -1,0 +1,27 @@
+Goals
+=====
+
+* I want to do FRP type stuff
+* I want to blog
+* I want to teach in some capacity
+
+Ideas
+=====
+
+A high level ideal I'm considering is writing a tutorial. I've always appreciated good tutorials, thinks like Learn You a Haskell, where it's entirely text based, but with fun illustrations and a conversational tone. My big thing is making a tutorial that *isn't* about building some practical thing, but rather is about learning the *ideas*, in small steps building up the conceptual leaps that are necessary to *think* in that paradigm. I think FRP is something that can absolutely use one of those. It would make sense to use RxJS for that, just as its so universal. You could explain basic environment setup using Node, but the goal would be, at least initially, to avoid any webpage stuff. While that is a major part of the ultimate usefulness of something like this, the important thing is to teach the thinking first, give people a flavor of the language so they can feel more confident jumping into some practical use of it (just like LYAHFGG, there's a major conceptual leap there to doing something *practical* in Haskell, but it plants the seed of interest, which is a big point).
+
+I should discuss this with some more senior member and see what they think. What I like about this project is that the output is ultimately something educational for others, which to me is a major plus, the idea of transmitting knowledge.
+
+
+Possible areas of focus
+=======================
+
+I want to have 1 focus area and maybe a few broader areas
+
+Right now the pool is:
+
+Focus
+-----
+* FRP as a paradigm - RxJS or Elm or Bacon 
+* React - just a really convenient front-end tool that I should jump on already
+* Data science? A basic understanding could be useful
